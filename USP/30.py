@@ -17,3 +17,4 @@ while True:
 print("A média dos preços velhos: ", soma_velho/produto)
 print("A média dos preços novos: ", soma_novo/produto)
 
+
